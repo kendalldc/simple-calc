@@ -1,0 +1,59 @@
+.App{
+  text-align: center;
+}
+/* .calc-body{
+  max-width:400px;
+margin: auto;
+}
+
+.result{
+height: 60px;
+background-color: #bbb;
+width: 100%;
+}
+
+.result p{
+  font-size: 40px;
+}
+
+.buttons{
+  display: block;
+  background-color: antiquewhite;
+}
+
+button{
+  width: 25%;
+ height:40px;
+ font-size: 20px ;
+} */
+.result {
+  height: 60px;
+  background-color: gainsboro;
+  width: 100%;
+}
+
+.result p {
+  font-size: 40px;
+  margin: 5px;
+
+}
+
+.calculator-body {
+  max-width: 400px;
+  margin: auto;
+}
+
+.button {
+  display: block;
+  background-color: goldenrod;
+}
+
+button {
+  width: 25%;
+  height: 60px;
+  font-size: 30px;
+}
+
+h1{
+  text-align: center;
+}
